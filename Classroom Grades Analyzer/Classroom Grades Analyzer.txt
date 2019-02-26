@@ -1,0 +1,7 @@
+Classroom Grades Analyzer
+In this project, you will create a simple tool to help analyze classroom grades stored in an ArrayList. 
+At the end of this project, the analyzer you build will be able to retrieve the classroom average.
+
+
+
+
