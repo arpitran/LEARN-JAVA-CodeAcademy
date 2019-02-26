@@ -1,0 +1,18 @@
+Key Concepts
+
+HashMap data structre
+For each loop
+Object-oriented programming concepts including classes,object, methods, and inheritance
+
+And the following built-in Java methods:
+size()
+put()
+get()
+keySet()
+
+LEARN JAVA
+Personal Library
+In this project, you will create a simple Library tool to help analyze completed books in a small, 
+personal library. The tool will print out the books that a user has fully read. 
+We will store the books and their completion status in a HashMap.
+
